@@ -25,6 +25,7 @@ table {
     border-collapse: collapse;
     width: 60%;
     padding: 8px;
+    background-color: rgb(65, 110, 192);
     font: Arial;
     align-content: center;
 }
@@ -86,4 +87,23 @@ img {vertical-align: middle;}
 .active {
   background-color: #717171;
 }
+#output{
+  display: none;
+}
+.borang1  {
+background-color: rgb(193, 127, 231);
+color: black;
 
+}
+
+#sales {
+  background-color: rgb(45, 151, 137);
+}
+
+#btncal {
+  background-color: rgb(187, 224, 20);
+}
+
+#totalpri {
+  background-color: rgb(218, 130, 47);
+}
